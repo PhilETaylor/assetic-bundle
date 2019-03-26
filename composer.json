@@ -1,6 +1,6 @@
 {
-    "name": "sanpi/assetic-bundle",
-    "description": "Integrates Assetic into Symfony2",
+    "name": "philetaylor/assetic-bundle",
+    "description": "Integrates Assetic into Symfony4",
     "keywords": ["assets", "compression", "minification"],
     "homepage": "https://github.com/sanpii/AsseticBundle",
     "type": "symfony-bundle",
