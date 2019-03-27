@@ -53,7 +53,7 @@ class RouterResourcePass implements CompilerPassInterface
 
         $router->replaceArgument(2, $routerConfigs);
         $container->setParameter('router.resource', $file);
-unset($contents['_app']);
+
         file_put_contents($file, Yaml::dump($contents));
     }
 }
